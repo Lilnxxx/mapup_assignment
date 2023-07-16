@@ -34,3 +34,7 @@ export const intersect=async(req,res)=>{
     res.status(200).json(cp)
 }
 
+export const home=(req,res)=>{
+    res.send('hello world how are you')
+}
+
