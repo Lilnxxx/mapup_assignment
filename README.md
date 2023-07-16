@@ -37,3 +37,21 @@ and putting a geojson in the json area of body which has the type "linestring"
 
 NOTE: the api uses header authorization please enter any data in header auth section 
 
+
+
+## Running Tests
+
+To test the api , run the following command
+
+api home
+
+```api home
+  https://mapupassignment-production.up.railway.app/api
+```
+
+api test
+```api test
+  https://mapupassignment-production.up.railway.app/api/chk
+```
+
+
